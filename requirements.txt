@@ -1,0 +1,7 @@
+gevent==21.1.2
+requests==2.25.1
+click==7.1.2
+flask==1.1.2
+werkzeug==1.0.1
+schedule==1.1.0
+redis==4.3.4
